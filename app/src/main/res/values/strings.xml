@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">PartnerkinTest</string>
+    <string name="retry">Retry</string>
+    <string name="unknown_error">Произошла ошибка загрузки данных</string>
+    <string name="calendar_screen_title">Конференции</string>
+    <string name="month_january">Январь</string>
+    <string name="month_february">Февраль</string>
+    <string name="month_march">Март</string>
+    <string name="month_april">Апрель</string>
+    <string name="month_may">Май</string>
+    <string name="month_june">Июнь</string>
+    <string name="month_july">Июль</string>
+    <string name="month_august">Август</string>
+    <string name="month_september">Сентябрь</string>
+    <string name="month_october">Октябрь</string>
+    <string name="month_november">Ноябрь</string>
+    <string name="month_december">Декабрь</string>
+    <string name="short_month_january">JAN</string>
+    <string name="short_month_february">FEB</string>
+    <string name="short_month_march">MAR</string>
+    <string name="short_month_april">APR</string>
+    <string name="short_month_may">MAY</string>
+    <string name="short_month_june">JUN</string>
+    <string name="short_month_july">JUL</string>
+    <string name="short_month_august">AUG</string>
+    <string name="short_month_september">SEP</string>
+    <string name="short_month_october">OCT</string>
+    <string name="short_month_november">NOV</string>
+    <string name="short_month_december">DEC</string>
+    <string name="online">Онлайн</string>
+    <string name="event_registration">Регистрация</string>
+    <string name="event_about_title">О событии</string>
+</resources>
